@@ -3,5 +3,6 @@ BunkBox is a group dedicated to helping each other out with projects and more.  
 
 
 
-## Founder
-![Founder](https://bit.ly/3JjbYjJ)
+# Founder 
+## Magicskits
+<img src="https://bit.ly/3JjbYjJ" data-canonical-src="https://bit.ly/3JjbYjJ" width="200" height="200" />
