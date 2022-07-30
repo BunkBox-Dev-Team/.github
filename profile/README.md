@@ -5,15 +5,15 @@ BunkBox is a group dedicated to helping each other out with projects and more. E
 
 # Team Members 
 ## Magicskits
-<img src="https://bit.ly/3JjbYjJ" data-canonical-src="https://bit.ly/3JjbYjJ" width="150" height="150" />
+<img src="https://bit.ly/3JjbYjJ" data-canonical-src="https://bit.ly/3JjbYjJ" width="70" height="70" />
 
 
 ## TheDoctor
-<img src="https://user-images.githubusercontent.com/39390981/181996786-ad072234-da73-4c93-9e8f-cdf57967eddf.png" data-canonical-src="https://user-images.githubusercontent.com/39390981/181996769-0bb9a12e-1fcc-4bfc-871b-440bb0a045af.png" width="150" height="150" />
+<img src="https://user-images.githubusercontent.com/39390981/181996786-ad072234-da73-4c93-9e8f-cdf57967eddf.png" data-canonical-src="https://user-images.githubusercontent.com/39390981/181996769-0bb9a12e-1fcc-4bfc-871b-440bb0a045af.png" width="70" height="70" />
 
 
 ## Trax Epsilon
-<img src="https://bit.ly/3P0VpKF" data-canonical-src="https://bit.ly/3P0VpKF" width="150" height="150" />
+<img src="https://bit.ly/3P0VpKF" data-canonical-src="https://bit.ly/3P0VpKF" width="70" height="70" />
 
 
 # [BunkBox HQ World](https://vrchat.com/home/launch?worldId=wrld_a9c777dd-1073-40c7-8915-ab1eda10c6a4)
