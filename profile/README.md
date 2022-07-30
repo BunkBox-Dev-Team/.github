@@ -16,4 +16,4 @@ BunkBox is a group dedicated to helping each other out with projects and more. E
 <img src="https://bit.ly/3P0VpKF" data-canonical-src="https://bit.ly/3P0VpKF" width="150" height="150" />
 
 
-# [World Link]:[https://vrchat.com/home/launch?worldId=wrld_a9c777dd-1073-40c7-8915-ab1eda10c6a4]
+# [World Link](https://vrchat.com/home/launch?worldId=wrld_a9c777dd-1073-40c7-8915-ab1eda10c6a4)
