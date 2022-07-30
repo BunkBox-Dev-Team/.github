@@ -1,5 +1,5 @@
 ## About BunkBox Dev Team
-BunkBox is a group dedicated to helping each other out with projects and more.  eventually we plan on doing things like  streaming and other forms of content  creation. This world BunkBox HQ isn't  just focused on our group alone but  anyone in the Vrc community, Anyone  can be apart of this world without asking  for a price!  This world will always be changing and evolving through out this group's journey through life and we hope that everyone  who visits has a wonderful time here!
+BunkBox is a group dedicated to helping each other out with projects and more. Eventually we plan on doing things like streaming and other forms of content creation. The world BunkBox HQ isn't just focused on our group alone but anyone in the VRC community, anyone can be apart of the world without asking for a price! The world will always be changing and evolving through out this group's journey through life and we hope that everyone who visits has a wonderful time there!
 
 
 
@@ -14,3 +14,6 @@ BunkBox is a group dedicated to helping each other out with projects and more.  
 
 ## Trax Epsilon
 <img src="https://bit.ly/3P0VpKF" data-canonical-src="https://bit.ly/3P0VpKF" width="150" height="150" />
+
+
+# [World Link][https://vrchat.com/home/launch?worldId=wrld_a9c777dd-1073-40c7-8915-ab1eda10c6a4]
