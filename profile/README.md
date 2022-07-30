@@ -1,4 +1,4 @@
-## About BunkBox Dev Team
+# About BunkBox Dev Team
 BunkBox is a group dedicated to helping each other out with projects and more. Eventually we plan on doing things like streaming and other forms of content creation. The world BunkBox HQ isn't just focused on our group alone but anyone in the VRC community, anyone can be apart of the world without asking for a price! The world will always be changing and evolving through out this group's journey through life and we hope that everyone who visits has a wonderful time there!
 
 
