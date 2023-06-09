@@ -15,6 +15,3 @@ I am The Doctor, I am a Timelord, I am a Demonlord and I am here to create enter
 ## Trax Epsilon
 <img src="https://bit.ly/3P0VpKF" data-canonical-src="https://bit.ly/3P0VpKF" width="70" height="70" />
 
-
-# [BunkBox HQ World](https://vrchat.com/home/launch?worldId=wrld_a9c777dd-1073-40c7-8915-ab1eda10c6a4)
-<img src="https://d348imysud55la.cloudfront.net/World-BunkBox-Image-2019431f1_4_.file_6652d7bb-75ea-4b75-ad03-af176f904fc1.14.png" data-canonical-src="https://d348imysud55la.cloudfront.net/World-BunkBox-Image-2019431f1_4_.file_6652d7bb-75ea-4b75-ad03-af176f904fc1.14.png" width="350" height="300" />
